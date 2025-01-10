@@ -1,113 +1,184 @@
 {
-  "basics":{
-    "summary": "I am a hard-working, self-motivated, and enthusiastic Software Engineer looking for my next challenging opportunity. I define myself as a proactive self-managed team member who has been working syde by syde with SMEs to develop solutions. My key signature strenghts are Perspective, Creativity, Kindness and Humor which allow me to have a better understanding of a problem and therefore resolve it with some out-of-the-box efortless and timeless alternatives. I am a valuable asset to be joined to any company due to my broad knowledge, fast learning, and multicultural experiences."
+  "basics": {
+    "summary": ""
   },
   "work": [
     {
-      "company": "Littlepay (Australia)",
-      "position": "Full-Stack Engineer (React - Java)",
-      "website": "https://www.littlepay.com",
-      "startDate": "2021-10",
-      "endDate": "2021-12",
-      "summary": "I was part of the Traveller experience / Checkout team with other 6 collegues. We maintained and developed several backend micro services written in Java Springboot and 3 public SDK's (React Javascript, iOS Swift, Android Kotlin). These services were integrating with different payment systems such as Visa, Mastercard, Elavon, Cybersource and Cardinal.",
+      "company": "The Mayo Clinic",
+      "position": "Software Quality Assurance Analyst",
+      "website": "",
+      "location": "Remote",
+      "startDate": "2021-11",
+      "endDate": "Present",
+      "summary": "Collaborating on cross-functional Scrum teams to deliver secure, reliable software solutions for clinical applications.",
       "highlights": [
-        "Java, Springboot, Javascript, React, AWS, AWS SQS, AWS RDS, AWS DynamoDB, AWS ECS, Jira, Buildkite"
+        "Conducted comprehensive backend testing for APIs and cloud functions.",
+        "Performed front-end testing for clinical web-based diagnostic tools and messaging applications.",
+        "Designed, tracked, and executed manual tests, ensuring high-quality software delivery.",
+        "Developed and maintained test documentation using Azure DevOps."
       ]
     },
     {
-      "company": "RPS Group (Australia)",
-      "position": "Full-Stack Engineer (React - .Net)",
-      "website": "https://www.rpsgroup.com.au",
-      "startDate": "2020-12",
-      "endDate": "2021-10",
-      "summary": "Here I work with a team of 5 people to develop a project management software for some goverment agencies. Development of web applications using React Typescript, C# .Net and SQL Server. Typical tasks are: discuss new features with SMEs and then develop frontend, backend, and database scripts.",
+      "company": "AbsenceSoft, LLC",
+      "position": "Software QA Engineer",
+      "startDate": "2020-03",
+      "endDate": "2021-11",
+      "summary": "Supported development and release cycles through manual and automated testing.",
       "highlights": [
-        ".Net, .Net Core, Javascript, Typescript, React, Antd, Azure, Azure DevOps, SQL Server, Azure Blob Storage, Azure App Services, Azure Pipelines"
+        "Executed functionality and smoke tests using Postman and Swagger.",
+        "Researched tools for performance and load testing as part of an early DevOps initiative.",
+        "Identified and reported critical application bugs pre-release using the Atlassian suite."
       ]
     },
     {
-      "company": "Robert Half (Australia)",
-      "position": "Android/Full-Stack (Java/JQuery) Engineer",
-      "website": "https://www.roberthalf.com.au",
-      "startDate": "2020-09",
-      "endDate": "2020-10",
-      "summary": "Improved Native Android App performance from 350MB ram to 110MB. Refactor bussiness rules and application of MVC pattern. Fixed 2 Fullstack Java Spring applications involving JQuery and Amazon S3. Developed a Spring Boot API and a React App. Developed a NodeJS API and a React APP to get meetings using Microsoft Graph API and display them on Smart TVs.",
+      "company": "Envision Technology Partners",
+      "position": "Software Test Engineer",
+      "website": "",
+      "location": "Denver, CO",
+      "startDate": "2012-02",
+      "endDate": "2020-02",
+      "summary": "Established and scaled testing frameworks for immunization tracking services.",
       "highlights": [
-        "Javascript, Typescript, React, JQuery, Bootstrap, NodeJS, Android, Java, Spring, Spring Boot, MySQL, AWS, AWS S3, AWS Lambda, AWS Route 53, Swagger"
+        "Planned, developed, and maintained 800+ automated UI tests using C#, Selenium, and SpecFlow.",
+        "Collaborated closely with the development team to align testing with product requirements.",
+        "Provided technical mentorship to the manual testing team."
       ]
     },
     {
-      "company": "Sola IO (Australia)",
-      "position": "Technical Leader",
-      "website": "https://www.sola.io",
-      "startDate": "2019-12",
-      "endDate": "2020-03",
-      "summary": "Sola.io is installs solar panels and sells the energy generated. I started in this company to assess every single technology they were using to reduce the IT budget and then integrate differents platforms to increase productivity and reduce processing time between operations. 60% budget reduced by integrating open-source software, integrating different platforms (such as SOHO), and developing APIs.",
+      "company": "DaVita Kidney Care",
+      "position": "Manager, Corporate Compliance",
+      "website": "",
+      "location": "Denver, CO",
+      "startDate": "2016-10",
+      "endDate": "2018-06",
+      "summary": "Provided compliance and regulatory support for enterprise clinical IT and billing systems.",
       "highlights": [
-        "Javascript, Typescript, NodeJS, Angular, Docker, AWS, ZOHO"
+        "Guided development, deployment, and training teams to ensure compliance with regulations.",
+        "Directed stakeholders on compliance-related issues impacting clinical and billing systems.",
+        "Managed audit findings and resolved compliance matters for leadership."
       ]
     },
     {
-      "company": "Farmbot (Australia)",
-      "position": "Backend Engineer",
-      "website": "https://www.farmbot.com.au",
-      "startDate": "2019-12",
-      "endDate": "2019-12",
-      "summary": "Company that produces and sells weather monitors for farms. Integrate two different companies' data by developing and configuring an authentification server. I successfully set up an OAuth flow; from finding requirements, generating documentation, to finally developing 2 APIs to interact with an Amazon Cognito Server.",
+      "company": "Western Nephrology",
+      "position": "Clinical Information Specialist",
+      "website": "",
+      "location": "Denver, CO",
+      "startDate": "2014-06",
+      "endDate": "2016-10",
+      "summary": "Administered and maintained integrated clinical and billing systems for a multi-location practice.",
       "highlights": [
-        "Javascript, Typescript, NodeJS, NestJS, Docker, AWS, AWS Lambda, AWS Cognito, TypeORM, Swagger"
+        "Configured and supported clinical and billing EMR/EHR systems.",
+        "Developed privacy and security training programs and ensured HIPAA compliance.",
+        "Designed advanced reporting workflows and advised leadership on IT strategies."
       ]
     },
     {
-      "company": "Reply (Italy)",
-      "position": "DevOps Engineer",
-      "website": "https://www.reply.it",
-      "startDate": "2019-07",
-      "endDate": "2019-08",
-      "summary": "Setup Jenkins pipelines to run different types of tests using ci/cd tools and send reports over Slack to different working teams.",
+      "company": "Multiple Healthcare Systems",
+      "position": "EMR/EHR System Consultant, Trainer, and Support Specialist",
+      "website": "",
+      "location": "U.S.",
+      "startDate": "2010-10",
+      "endDate": "2014-05",
+      "summary": "Supported clinical and administrative users during EMR/EHR system implementations.",
       "highlights": [
-        "Jenkins, Docker, Load Impact, Puppeteer, SiteSpeed, SonarQube, CI/CD"
+        "Delivered on-site training to diverse clinical users.",
+        "Created training materials tailored for clinical teams.",
+        "Provided technical guidance to project leadership."
       ]
     },
     {
-      "company": "RavimoShark (France)",
-      "position": "Full-Stack Engineer, Software Architecture and Cloud Engineer",
-      "website": "http://www.ravimoshark.com",
-      "startDate": "2017-06",
-      "endDate": "2019-11",
-      "summary": "I am a Software Engineer with more that 7 years of experience. I define myself as a proactive self-managed team member who has been working syde by syde with SMEs to develop solutions and to communicate complex technical requirements to non-technical stakeholders. My key signature strengths are Perspective, Creativity, Kindness and Humor which allow me to have a better understanding of a problem and therefore resolve it with some out-of-the-box effortless and timeless alternatives.",
+      "company": "Baptist Community Ministries",
+      "position": "Data Management Consultant in Program Evaluation",
+      "website": "",
+      "location": "New Orleans, LA",
+      "startDate": "2010-12",
+      "endDate": "2011-06",
+      "summary": "Supported data migration and cleanup for a grant management system.",
       "highlights": [
-        "Java, Spring, Spring Boot, Hibernate, Jasper Reports, Android, Javascript, Typescript, NodeJS, Angular, Azure, Azure App Services, Azure Active Directory, Azure Blob Storage, Docker, MSSQL, Swagger, Keycloak"
+        "Structured legacy data to ensure migration accuracy.",
+        "Advised leadership on IT and information management improvements."
       ]
     },
     {
-      "company": "Singleton Software Development (Freelance Argentina)",
-      "position": "Full-Stack Developer",
-      "website": "http://www.singletonsd.com",
-      "startDate": "2014-01",
-      "endDate": "2019-10",
-      "summary": "Start providing sofware development and consultancy ranging from development of mobile application, web applications, backend services and database migrations to servers maintenance. The following list are clients to which I sold my services and I continue to provide maintenance over the years as either developer or consultant. Most of them are still in contact with me. All of these jobs were carried out by having to contact the costumer, make a proposal within a budget of time and money and make continues iteration over their requirements.",
+      "company": "New Orleans BioInnovation Center",
+      "position": "Research Project Manager in Workforce Development",
+      "website": "",
+      "location": "New Orleans, LA",
+      "startDate": "2010-05",
+      "endDate": "2010-11",
+      "summary": "Led a regional research project to assess biotech workforce needs.",
       "highlights": [
-        "TLC (2018-2019): package delivery company. Position: Full-Stack Developer, Software Architecture and Cloud Engineer. I developed a full project including customer's scopes, API services, frontend web application and database. I currently maintain their servers and improve their services. Technologies: Javascript, Typescript, NodeJS, Angular, Docker, MySQL, Swagger, AWS. ",
-        "Intelydrone (2018-2019): farm tech company which provides livestock tracking. Position: Backend Developer, Software Architecture and Cloud Engineer. Technologies: Javascript, Typescript, NodeJS, CentOS, Docker, MongoDB, Swagger.",
-        "DilMedica (2016-2018): supplier company of medical prosthesis. Position: Java EE Developer and Software Architecture. I  developed a Java Desktop Application to creates invoices, payslips and budgets. Technologies: Java, SQLite, Java EE, Hibernate, JasperReports",
-        "FiscalizAR (2015-2019): It's a personal project which I started to help counting votes in Argentina's election. To summarize, It is an android application, some APIs and a web angular application to track counting votes of different political parties. Technologies: Javascript, Typescript, Angular, NodeJS, Android, Docker, MySQL, SQLite, Swagger, AWS Lambda, AWS S3",
-        "Torneo InterCollege (2015-2016): amateur soccer tournament. Position: Java Android Developer and Software Architecture. I developed  an android application to show soccer players information and statistics about the tournament and a Java EE Desktop Application to submit data. Technologies: Android, Java, JAVA EE, SQLite, MySQL, Hibernate, AWS S3",
-        "Libraries and Drugstores (2013-2016): small to medium businesses that sells products to final costumers. I developed a software to track stock, sell products and report about selling and suppliers. It started as a one client project but over the time I managed to sell it to almost 15 costumers. Technologies: Java, Java EE, Jasper Reports, SQLite, Hibernate."
+        "Designed and deployed iPad-based survey technology.",
+        "Managed project budgets and timelines.",
+        "Delivered statistical analysis and actionable insights."
       ]
+    },
+    {
+      "company": "National Center for Disaster Preparedness/Columbia University School of Public Health",
+      "position": "Field Team Lead",
+      "website": "",
+      "location": "New Orleans, LA",
+      "startDate": "2008-05",
+      "endDate": "2010-04",
+      "summary": "Supervised data collection for a longitudinal study on Hurricane Katrina's health impacts.",
+      "highlights": [
+        "Coordinated field team operations to ensure data quality.",
+        "Engaged with community organizations to improve participation rates.",
+        "Provided logistical and technical support to field teams."
+      ]
+    },
+    {
+      "company": "Stella Worley Middle School",
+      "position": "Teacher, Language Arts",
+      "website": "",
+      "location": "Westwego, LA",
+      "startDate": "2008-01",
+      "endDate": "2008-05",
+      "summary": "Instructed 6th and 8th grade students in English and language arts.",
+      "highlights": [
+        "Integrated technology into student learning through computer enrichment classes."
+      ]
+    },
+    {
+      "company": "Lake Charles American Press",
+      "position": "Copy Editor, Page Designer",
+      "website": "",
+      "location": "Lake Charles, LA",
+      "startDate": "2006-08",
+      "endDate": "2007-12",
+      "summary": "Managed content and layout for local and national news sections.",
+      "highlights": [
+        "Oversaw weekly health content and opinion sections.",
+        "Developed the publication’s first weekly insights section."
+      ]
+    },
+    {
+      "company": "The Port Arthur News",
+      "position": "Copy Editor, Page Designer",
+      "website": "",
+      "location": "Port Arthur, TX",
+      "startDate": "2006-02",
+      "endDate": "2006-08",
+      "summary": "Edited and designed pages for various newspaper sections.",
+      "highlights": []
+    },
+    {
+      "company": "The Beauregard Daily News",
+      "position": "News Reporter",
+      "website": "",
+      "location": "DeRidder, LA",
+      "startDate": "2005-06",
+      "endDate": "2006-02",
+      "summary": "Covered local news and sports stories.",
+      "highlights": []
     }
   ],
-  "volunteer": [
-  ],
-  "education": [
-  ],
+  "volunteer": [],
+  "education": [],
   "awards": [],
   "publications": [],
-  "skills": [
-  ],
-  "languages": [
-  ],
-  "interests": [
-  ],
+  "skills": [],
+  "languages": [],
+  "interests": [],
   "references": []
 }
