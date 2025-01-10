@@ -1,63 +1,54 @@
 {
   "basics": {
-    "name": "Patricio PERPETUA",
-    "label": "Computer Engineer",
-    "image": "profile.jpg",
-    "picture": "profile.jpg",
-    "email": "patoperpetua@singletonsd.com.au",
-    "phone": "+61480190003",
-    "website": "https://patricioperpetua.com.au",
+    "name": "Anthony Ray, MPH",
+    "label": "Software Quality Analyst / Test Engineer",
+    "image": "aray.jpg",
+    "picture": "aray.jpg",
+    "email": "anthonyray0825@gmail.com",
+    "phone": "+13374851592",
+    "website": "https://anthonyray.net",
     "location": {
-      "address": "Southbank",
-      "postalCode": "3006",
-      "city": "Melbourne",
-      "countryCode": "Australia (AU)",
-      "region": "Victoria"
+      "address": "9370 W 56TH PL",
+      "postalCode": "80002",
+      "city": "ARVADA",
+      "countryCode": "United States (US)",
+      "region": "Colorado"
     },
     "profiles": [
       {
-        "network": "LinkedIn",
-        "username": "Patricio Perpetua",
-        "url": "https://linkedin.com/in/patricio-perpetua"
+        "network": "linkedin",
+        "username": "aray0825",
+        "url": "https://www.linkedin.com/in/aray0825/"
       },
       {
-        "network": "Gitlab",
-        "username": "SingletonSD",
-        "url": "https://gitlab.com/singletonsd"
+        "network": "github",
+        "username": "yoyo-array0825",
+        "url": "https://github.com/yoyo-array0825"
       },
       {
-        "network": "Github",
-        "username": "SingletonSD",
-        "url": "https://github.com/singletonsd"
+        "network": "gitlab",
+        "username": "yoyo-array0825",
+        "url": "https://gitlab.com/yoyo-array0825"
       }
     ]
   },
   "education": [
     {
-      "institution": "Universidad Nacional de Cordoba, Argentina",
-      "area": "Software Engineer",
-      "studyType": "College",
-      "startDate": "2012-01-01",
-      "endDate": "2018-12-20",
-      "gpa": "7.5/10",
+      "institution": "",
+      "area": "",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "gpa": "",
       "courses": []
     },
     {
-      "institution": "Ensimag Grenoble INP, France",
-      "area": "Software Engineer",
-      "studyType": "College (One year Exchange)",
-      "startDate": "2017-01-01",
-      "endDate": "2017-12-01",
-      "gpa": "13.7/20",
-      "courses": []
-    },
-    {
-      "institution": "ITS Villada, Argentina",
-      "area": "Technician Specialisation Electronics",
-      "studyType": "High School",
-      "startDate": "2006-01-01",
-      "endDate": "2011-12-01",
-      "gpa": "8.5/10",
+      "institution": "",
+      "area": "",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "gpa": "",
       "courses": []
     }
   ],
@@ -66,12 +57,7 @@
       "name": "Web (years)",
       "level": "",
       "keywords": [
-        "HTML, CCS, JS (5)",
-        "Angular (4)",
-        "React (1)",
-        "JQuery (4)",
-        "AntDesign (1)",
-        "Bootstrap (4)"
+        "HTML, CCS, JS (5)"
       ]
     },
     {
@@ -79,101 +65,59 @@
       "level": "",
       "keywords": [
         "C# (1)",
-        "Java (7)",
-        "Java Android (5)",
-        "JavaScript, Typescript (4)"
+        "JavaScript, Typescript (1)"
       ]
     },
     {
       "name": "Cloud (years)",
       "level": "",
-      "keywords":[
-        "AWS (Lambda, S3, Route 53, CDN, EC2) (2)",
-        "Azure (Blob, App Serv, A Directory, Insights, SQL) (4)",
-        "Azure DevOps (1)"
+      "keywords": [
+        "AWS (2)",
+        "Azure (4)",
+        "Azure DevOps (4)",
+        "Google Cloud Platform (1)"
       ]
     },
     {
       "name": "Scripting (years)",
       "level": "",
       "keywords": [
-        "Bash (3)",
-        "Powershell (1)",
-        "Kotlin",
-        "Python"
+        "Bash (5)",
+        "Powershell (2)",
+        "VBA (10)",
+        "Javascript (2)"
       ]
     },
     {
       "name": "Database Engines (years)",
       "level": "",
       "keywords": [
-        "SQLite (7)",
-        "SQL Server, Azure DB (4)",
-        "MySQL (4)",
-        "MongoDB (1)"
-      ]
-    },
-    {
-      "name": "Javascript/Typescript (years)",
-      "level": "",
-      "keywords":[
-        "NodeJS (4)",
-        "NestJS (2)"
-      ]
-    },
-    {
-      "name": "Java (years)",
-      "level": "",
-      "keywords":[
-        "Maven (6)",
-        "Jasper Reports (5)",
-        "Liquibase (5)",
-        "Hibernate, JPA (6)",
-        "Spring, Spring Boot (4)",
-        "JSP (2)"
+        "SQL Server (10)",
+        "MySQL (6)",
+        "MongoDB (4)"
       ]
     },
     {
       "name": "C# (years)",
       "level": "",
-      "keywords":[
-        ".Net, .Net Core",
-        "LINQ",
-        "CQRS"
+      "keywords": [
+        ".Net, .Net Core (5)"
       ]
     },
     {
       "name": "CI/CD Tools (years)",
       "level": "",
-      "keywords":[
-        "Gitlab CI/CD (4)",
-        "Docker (4)",
-        "Jenkins (1)",
+      "keywords": [
+        "Gitlab CI/CD (0)",
+        "Docker (1)",
+        "Jenkins (0)",
         "Azure Pipelines (1)"
       ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "C1 Superior (IELTS 8.0 - 2021)"
-    },
-    {
-      "language": "French",
-      "fluency": "Intermediate"
-    },
-    {
-      "language": "Italian",
-      "fluency": "Intermediate"
-    },
-    {
-      "language": "Spanish",
-      "fluency": "Native"
     }
   ],
   "interests": [],
   "volunteer": [],
   "awards": [],
-  "publications":[],
+  "publications": [],
   "references": []
 }
