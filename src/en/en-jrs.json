@@ -7,11 +7,10 @@
     "startDate": {
       "year": "2021",
       "month": "11",
-      "monthString": "NOV"
+      "monthString": "NOV",
+      "monthStringLong": "NOVEMBER"
     },
     "endDate": {
-      "year": "Pres",
-      "month": "nt"
     },
     "summary": "Collaborating on cross-functional Scrum teams to deliver secure, reliable software solutions for clinical applications.",
     "highlights": [
@@ -27,12 +26,14 @@
     "startDate": {
       "year": "2020",
       "month": "03",
-      "monthString": "MAR"
+      "monthString": "MAR",
+      "monthStringLong": "MARCH"
     },
     "endDate": {
       "year": "2021",
       "month": "11",
-      "monthString": "NOV"
+      "monthString": "NOV",
+      "monthStringLong": "NOVEMBER"
     },
     "summary": "Supported development and release cycles through manual and automated testing.",
     "highlights": [
@@ -49,12 +50,14 @@
     "startDate": {
       "year": "2012",
       "month": "02",
-      "monthString": "FEB"
+      "monthString": "FEB",
+      "monthStringLong": "FEBRUARY"
     },
     "endDate": {
       "year": "2020",
       "month": "02",
-      "monthString": "FEB"
+      "monthString": "FEB",
+      "monthStringLong": "FEBRUARY"
     },
     "summary": "Established and scaled testing frameworks for immunization tracking services.",
     "highlights": [
@@ -71,12 +74,14 @@
     "startDate": {
       "year": "2016",
       "month": "10",
-      "monthString": "OCT"
+      "monthString": "OCT",
+      "monthStringLong": "OCTOBER"
     },
     "endDate": {
       "year": "2018",
       "month": "06",
-      "monthString": "JUN"
+      "monthString": "JUN",
+      "monthStringLong": "JUNE"
     },
     "summary": "Provided compliance and regulatory support for enterprise clinical IT and billing systems.",
     "highlights": [
@@ -93,12 +98,14 @@
     "startDate": {
       "year": "2014",
       "month": "06",
-      "monthString": "JUN"
+      "monthString": "JUN",
+      "monthStringLong": "JUNE"
     },
     "endDate": {
       "year": "2016",
       "month": "10",
-      "monthString": "OCT"
+      "monthString": "OCT",
+      "monthStringLong": "OCTOBER"
     },
     "summary": "Administered and maintained integrated clinical and billing systems for a multi-location practice.",
     "highlights": [
@@ -115,12 +122,14 @@
     "startDate": {
       "year": "2010",
       "month": "10",
-      "monthString": "OCT"
+      "monthString": "OCT",
+      "monthStringLong": "OCTOBER"
     },
     "endDate": {
       "year": "2014",
       "month": "05",
-      "monthString": "MAY"
+      "monthString": "MAY",
+      "monthStringLong": "MAY"
     },
     "summary": "Supported clinical and administrative users during EMR/EHR system implementations.",
     "highlights": [
@@ -137,12 +146,14 @@
     "startDate": {
       "year": "2010",
       "month": "12",
-      "monthString": "DEC"
+      "monthString": "DEC",
+      "monthStringLong": "DECEMBER"
     },
     "endDate": {
       "year": "2011",
       "month": "06",
-      "monthString": "JUN"
+      "monthString": "JUN",
+      "monthStringLong": "JUNE"
     },
     "summary": "Supported data migration and cleanup for a grant management system.",
     "highlights": [
@@ -158,12 +169,14 @@
     "startDate": {
       "year": "2010",
       "month": "05",
-      "monthString": "MAY"
+      "monthString": "MAY",
+      "monthStringLong": "MAY"
     },
     "endDate": {
       "year": "2010",
       "month": "11",
-      "monthString": "NOV"
+      "monthString": "NOV",
+      "monthStringLong": "NOVEMBER"
     },
     "summary": "Led a regional research project to assess biotech workforce needs.",
     "highlights": [
@@ -180,12 +193,14 @@
     "startDate": {
       "year": "2008",
       "month": "05",
-      "monthString": "MAY"
+      "monthString": "MAY",
+      "monthStringLong": "MAY"
     },
     "endDate": {
       "year": "2010",
       "month": "04",
-      "monthString": "APR"
+      "monthString": "APR",
+      "monthStringLong": "APRIL"
     },
     "summary": "Supervised data collection for a longitudinal study on Hurricane Katrina's health impacts.",
     "highlights": [
@@ -202,12 +217,14 @@
     "startDate": {
       "year": "2008",
       "month": "01",
-      "monthString": "JAN"
+      "monthString": "JAN",
+      "monthStringLong": "JANUARY"
     },
     "endDate": {
       "year": "2008",
       "month": "05",
-      "monthString": "MAY"
+      "monthString": "MAY",
+      "monthStringLong": "MAY"
     },
     "summary": "Instructed 6th and 8th grade students in English and language arts.",
     "highlights": [
@@ -222,12 +239,14 @@
     "startDate": {
       "year": "2006",
       "month": "08",
-      "monthString": "AUG"
+      "monthString": "AUG",
+      "monthStringLong": "AUGUST"
     },
     "endDate": {
       "year": "2007",
       "month": "12",
-      "monthString": "DEC"
+      "monthString": "DEC",
+      "monthStringLong": "DECEMBER"
     },
     "summary": "Managed content and layout for local and national news sections.",
     "highlights": [
@@ -243,12 +262,14 @@
     "startDate": {
       "year": "2006",
       "month": "02",
-      "monthString": "FEB"
+      "monthString": "FEB",
+      "monthStringLong": "FEBRUARY"
     },
     "endDate": {
       "year": "2006",
       "month": "08",
-      "monthString": "AUG"
+      "monthString": "AUG",
+      "monthStringLong": "AUGUST"
     },
     "summary": "Edited and designed pages for various newspaper sections.",
     "highlights": []
@@ -261,12 +282,14 @@
     "startDate": {
       "year": "2005",
       "month": "06",
-      "monthString": "JUN"
+      "monthString": "JUN",
+      "monthStringLong": "JUNE"
     },
     "endDate": {
       "year": "2006",
       "month": "02",
-      "monthString": "FEB"
+      "monthString": "FEB",
+      "monthStringLong": "FEBRUARY"
     },
     "summary": "Covered local news and sports stories.",
     "highlights": []
