@@ -1,359 +1,274 @@
-{
-  "basics": {
-    "summary": ""
+[
+  {
+    "company": "The Mayo Clinic",
+    "position": "Software Quality Assurance Analyst",
+    "website": "",
+    "location": "Remote",
+    "startDate": {
+      "year": "2021",
+      "month": "11",
+      "monthString": "NOV"
+    },
+    "endDate": {
+      "year": "Pres",
+      "month": "nt"
+    },
+    "summary": "Collaborating on cross-functional Scrum teams to deliver secure, reliable software solutions for clinical applications.",
+    "highlights": [
+      "Conducted comprehensive backend testing for APIs and cloud functions.",
+      "Performed front-end testing for clinical web-based diagnostic tools and messaging applications.",
+      "Designed, tracked, and executed manual tests.",
+      "Developed and maintained test documentation using Azure DevOps."
+    ]
   },
-  "work": [
-    {
-      "company": "The Mayo Clinic",
-      "position": "Software Quality Assurance Analyst",
-      "website": "",
-      "location": "Remote",
-      "startDate": {
-        "yearShort": "",
-        "yearFull": "",
-        "monthShort": "",
-        "monthFull": "",
-        "monthInt": 0,
-        "monthIntToString": ""
-      },
-      "endDate": "Present",
-      "summary": "Collaborating on cross-functional Scrum teams to deliver secure, reliable software solutions for clinical applications.",
-      "highlights": [
-        "Conducted comprehensive backend testing for APIs and cloud functions.",
-        "Performed front-end testing for clinical web-based diagnostic tools and messaging applications.",
-        "Designed, tracked, and executed manual tests, ensuring high-quality software delivery.",
-        "Developed and maintained test documentation using Azure DevOps."
-      ]
+  {
+    "company": "AbsenceSoft, LLC",
+    "position": "Software QA Engineer",
+    "startDate": {
+      "year": "2020",
+      "month": "03",
+      "monthString": "MAR"
     },
-    {
-      "company": "AbsenceSoft, LLC",
-      "position": "Software QA Engineer",
-      "startDate": {
-        "yearShort": "",
-        "yearFull": "",
-        "monthShort": "",
-        "monthFull": "",
-        "monthInt": 0,
-        "monthIntToString": ""
-      },
-      "endDate": {
-        "yearShort": "",
-        "yearFull": "",
-        "monthShort": "",
-        "monthFull": "",
-        "monthInt": 0,
-        "monthIntToString": ""
-      },
-      "summary": "Supported development and release cycles through manual and automated testing.",
-      "highlights": [
-        "Executed functionality and smoke tests using Postman and Swagger.",
-        "Researched tools for performance and load testing as part of an early DevOps initiative.",
-        "Identified and reported critical application bugs pre-release using the Atlassian suite."
-      ]
+    "endDate": {
+      "year": "2021",
+      "month": "11",
+      "monthString": "NOV"
     },
-    {
-      "company": "Envision Technology Partners",
-      "position": "Software Test Engineer",
-      "website": "",
-      "location": "Denver, CO",
-      "startDate": {
-        "yearShort": "",
-        "yearFull": "",
-        "monthShort": "",
-        "monthFull": "",
-        "monthInt": 0,
-        "monthIntToString": ""
-      },
-      "endDate": {
-        "yearShort": "",
-        "yearFull": "",
-        "monthShort": "",
-        "monthFull": "",
-        "monthInt": 0,
-        "monthIntToString": ""
-      },
-      "summary": "Established and scaled testing frameworks for immunization tracking services.",
-      "highlights": [
-        "Planned, developed, and maintained 800+ automated UI tests using C#, Selenium, and SpecFlow.",
-        "Collaborated closely with the development team to align testing with product requirements.",
-        "Provided technical mentorship to the manual testing team."
-      ]
+    "summary": "Supported development and release cycles through manual and automated testing.",
+    "highlights": [
+      "Executed functionality and smoke tests using Postman and Swagger.",
+      "Researched tools for performance and load testing as part of an early DevOps initiative.",
+      "Identified and reported critical application bugs pre-release using the Atlassian suite."
+    ]
+  },
+  {
+    "company": "Envision Technology Partners",
+    "position": "Software Test Engineer",
+    "website": "",
+    "location": "Denver, CO",
+    "startDate": {
+      "year": "2012",
+      "month": "02",
+      "monthString": "FEB"
     },
-    {
-      "company": "DaVita Kidney Care",
-      "position": "Manager, Corporate Compliance",
-      "website": "",
-      "location": "Denver, CO",
-      "startDate": {
-        "yearShort": "",
-        "yearFull": "",
-        "monthShort": "",
-        "monthFull": "",
-        "monthInt": 0,
-        "monthIntToString": ""
-      },
-      "endDate": {
-        "yearShort": "",
-        "yearFull": "",
-        "monthShort": "",
-        "monthFull": "",
-        "monthInt": 0,
-        "monthIntToString": ""
-      },
-      "summary": "Provided compliance and regulatory support for enterprise clinical IT and billing systems.",
-      "highlights": [
-        "Guided development, deployment, and training teams to ensure compliance with regulations.",
-        "Directed stakeholders on compliance-related issues impacting clinical and billing systems.",
-        "Managed audit findings and resolved compliance matters for leadership."
-      ]
+    "endDate": {
+      "year": "2020",
+      "month": "02",
+      "monthString": "FEB"
     },
-    {
-      "company": "Western Nephrology",
-      "position": "Clinical Information Specialist",
-      "website": "",
-      "location": "Denver, CO",
-      "startDate": {
-        "yearShort": "",
-        "yearFull": "",
-        "monthShort": "",
-        "monthFull": "",
-        "monthInt": 0,
-        "monthIntToString": ""
-      },
-      "endDate": {
-        "yearShort": "",
-        "yearFull": "",
-        "monthShort": "",
-        "monthFull": "",
-        "monthInt": 0,
-        "monthIntToString": ""
-      },
-      "summary": "Administered and maintained integrated clinical and billing systems for a multi-location practice.",
-      "highlights": [
-        "Configured and supported clinical and billing EMR/EHR systems.",
-        "Developed privacy and security training programs and ensured HIPAA compliance.",
-        "Designed advanced reporting workflows and advised leadership on IT strategies."
-      ]
+    "summary": "Established and scaled testing frameworks for immunization tracking services.",
+    "highlights": [
+      "Planned, developed, and maintained 800+ automated UI tests using C#, Selenium, and SpecFlow.",
+      "Collaborated closely with the development team to align testing with product requirements.",
+      "Provided technical mentorship to the manual testing team."
+    ]
+  },
+  {
+    "company": "DaVita Kidney Care",
+    "position": "Manager, Corporate Compliance",
+    "website": "",
+    "location": "Denver, CO",
+    "startDate": {
+      "year": "2016",
+      "month": "10",
+      "monthString": "OCT"
     },
-    {
-      "company": "Multiple Healthcare Systems",
-      "position": "EMR/EHR System Consultant, Trainer, and Support Specialist",
-      "website": "",
-      "location": "U.S.",
-      "startDate": {
-        "yearShort": "",
-        "yearFull": "",
-        "monthShort": "",
-        "monthFull": "",
-        "monthInt": 0,
-        "monthIntToString": ""
-      },
-      "endDate": {
-        "yearShort": "",
-        "yearFull": "",
-        "monthShort": "",
-        "monthFull": "",
-        "monthInt": 0,
-        "monthIntToString": ""
-      },
-      "summary": "Supported clinical and administrative users during EMR/EHR system implementations.",
-      "highlights": [
-        "Delivered on-site training to diverse clinical users.",
-        "Created training materials tailored for clinical teams.",
-        "Provided technical guidance to project leadership."
-      ]
+    "endDate": {
+      "year": "2018",
+      "month": "06",
+      "monthString": "JUN"
     },
-    {
-      "company": "Baptist Community Ministries",
-      "position": "Data Management Consultant in Program Evaluation",
-      "website": "",
-      "location": "New Orleans, LA",
-      "startDate": {
-        "yearShort": "",
-        "yearFull": "",
-        "monthShort": "",
-        "monthFull": "",
-        "monthInt": 0,
-        "monthIntToString": ""
-      },
-      "endDate": {
-        "yearShort": "",
-        "yearFull": "",
-        "monthShort": "",
-        "monthFull": "",
-        "monthInt": 0,
-        "monthIntToString": ""
-      },
-      "summary": "Supported data migration and cleanup for a grant management system.",
-      "highlights": [
-        "Structured legacy data to ensure migration accuracy.",
-        "Advised leadership on IT and information management improvements."
-      ]
+    "summary": "Provided compliance and regulatory support for enterprise clinical IT and billing systems.",
+    "highlights": [
+      "Guided development, deployment, and training teams to ensure compliance with regulations.",
+      "Directed stakeholders on compliance-related issues impacting clinical and billing systems.",
+      "Managed audit findings and resolved compliance matters for leadership."
+    ]
+  },
+  {
+    "company": "Western Nephrology",
+    "position": "Clinical Information Specialist",
+    "website": "",
+    "location": "Denver, CO",
+    "startDate": {
+      "year": "2014",
+      "month": "06",
+      "monthString": "JUN"
     },
-    {
-      "company": "New Orleans BioInnovation Center",
-      "position": "Research Project Manager in Workforce Development",
-      "website": "",
-      "location": "New Orleans, LA",
-      "startDate": {
-        "yearShort": "",
-        "yearFull": "",
-        "monthShort": "",
-        "monthFull": "",
-        "monthInt": 0,
-        "monthIntToString": ""
-      },
-      "endDate": {
-        "yearShort": "",
-        "yearFull": "",
-        "monthShort": "",
-        "monthFull": "",
-        "monthInt": 0,
-        "monthIntToString": ""
-      },
-      "summary": "Led a regional research project to assess biotech workforce needs.",
-      "highlights": [
-        "Designed and deployed iPad-based survey technology.",
-        "Managed project budgets and timelines.",
-        "Delivered statistical analysis and actionable insights."
-      ]
+    "endDate": {
+      "year": "2016",
+      "month": "10",
+      "monthString": "OCT"
     },
-    {
-      "company": "National Center for Disaster Preparedness/Columbia University School of Public Health",
-      "position": "Field Team Lead",
-      "website": "",
-      "location": "New Orleans, LA",
-      "startDate": {
-        "yearShort": "",
-        "yearFull": "",
-        "monthShort": "",
-        "monthFull": "",
-        "monthInt": 0,
-        "monthIntToString": ""
-      },
-      "endDate": {
-        "yearShort": "",
-        "yearFull": "",
-        "monthShort": "",
-        "monthFull": "",
-        "monthInt": 0,
-        "monthIntToString": ""
-      },
-      "summary": "Supervised data collection for a longitudinal study on Hurricane Katrina's health impacts.",
-      "highlights": [
-        "Coordinated field team operations to ensure data quality.",
-        "Engaged with community organizations to improve participation rates.",
-        "Provided logistical and technical support to field teams."
-      ]
+    "summary": "Administered and maintained integrated clinical and billing systems for a multi-location practice.",
+    "highlights": [
+      "Configured and supported clinical and billing EMR/EHR systems.",
+      "Developed privacy and security training programs and ensured HIPAA compliance.",
+      "Designed advanced reporting workflows and advised leadership on IT strategies."
+    ]
+  },
+  {
+    "company": "Multiple Healthcare Systems",
+    "position": "EMR/EHR System Consultant, Trainer, and Support Specialist",
+    "website": "",
+    "location": "U.S.",
+    "startDate": {
+      "year": "2010",
+      "month": "10",
+      "monthString": "OCT"
     },
-    {
-      "company": "Stella Worley Middle School",
-      "position": "Teacher, Language Arts",
-      "website": "",
-      "location": "Westwego, LA",
-      "startDate": {
-        "yearShort": "",
-        "yearFull": "",
-        "monthShort": "",
-        "monthFull": "",
-        "monthInt": 0,
-        "monthIntToString": ""
-      },
-      "endDate": {
-        "yearShort": "",
-        "yearFull": "",
-        "monthShort": "",
-        "monthFull": "",
-        "monthInt": 0,
-        "monthIntToString": ""
-      },
-      "summary": "Instructed 6th and 8th grade students in English and language arts.",
-      "highlights": [
-        "Integrated technology into student learning through computer enrichment classes."
-      ]
+    "endDate": {
+      "year": "2014",
+      "month": "05",
+      "monthString": "MAY"
     },
-    {
-      "company": "Lake Charles American Press",
-      "position": "Copy Editor, Page Designer",
-      "website": "",
-      "location": "Lake Charles, LA",
-      "startDate": {
-        "yearShort": "",
-        "yearFull": "",
-        "monthShort": "",
-        "monthFull": "",
-        "monthInt": 0,
-        "monthIntToString": ""
-      },
-      "endDate": {
-        "yearShort": "",
-        "yearFull": "",
-        "monthShort": "",
-        "monthFull": "",
-        "monthInt": 0,
-        "monthIntToString": ""
-      },
-      "summary": "Managed content and layout for local and national news sections.",
-      "highlights": [
-        "Oversaw weekly health content and opinion sections.",
-        "Developed the publication’s first weekly insights section."
-      ]
+    "summary": "Supported clinical and administrative users during EMR/EHR system implementations.",
+    "highlights": [
+      "Delivered on-site training to diverse clinical users.",
+      "Created training materials tailored for clinical teams.",
+      "Provided technical guidance to project leadership."
+    ]
+  },
+  {
+    "company": "Baptist Community Ministries",
+    "position": "Data Management Consultant in Program Evaluation",
+    "website": "",
+    "location": "New Orleans, LA",
+    "startDate": {
+      "year": "2010",
+      "month": "12",
+      "monthString": "DEC"
     },
-    {
-      "company": "The Port Arthur News",
-      "position": "Copy Editor, Page Designer",
-      "website": "",
-      "location": "Port Arthur, TX",
-      "startDate": {
-        "yearShort": "",
-        "yearFull": "",
-        "monthShort": "",
-        "monthFull": "",
-        "monthInt": 0,
-        "monthIntToString": ""
-      },
-      "endDate": {
-        "yearShort": "",
-        "yearFull": "",
-        "monthShort": "",
-        "monthFull": "",
-        "monthInt": 0,
-        "monthIntToString": ""
-      },
-      "summary": "Edited and designed pages for various newspaper sections.",
-      "highlights": []
+    "endDate": {
+      "year": "2011",
+      "month": "06",
+      "monthString": "JUN"
     },
-    {
-      "company": "The Beauregard Daily News",
-      "position": "News Reporter",
-      "website": "",
-      "location": "DeRidder, LA",
-      "startDate": {
-        "yearShort": "",
-        "yearFull": "",
-        "monthShort": "",
-        "monthFull": "",
-        "monthInt": 0,
-        "monthIntToString": ""
-      },
-      "endDate": {
-        "yearShort": "",
-        "yearFull": "",
-        "monthShort": "",
-        "monthFull": "",
-        "monthInt": 0,
-        "monthIntToString": ""
-      },
-      "summary": "Covered local news and sports stories.",
-      "highlights": []
-    }
-  ],
-  "volunteer": [],
-  "education": [],
-  "awards": [],
-  "publications": [],
-  "skills": [],
-  "languages": [],
-  "interests": [],
-  "references": []
-}
+    "summary": "Supported data migration and cleanup for a grant management system.",
+    "highlights": [
+      "Structured legacy data to ensure migration accuracy.",
+      "Advised leadership on IT and information management improvements."
+    ]
+  },
+  {
+    "company": "New Orleans BioInnovation Center",
+    "position": "Research Project Manager in Workforce Development",
+    "website": "",
+    "location": "New Orleans, LA",
+    "startDate": {
+      "year": "2010",
+      "month": "05",
+      "monthString": "MAY"
+    },
+    "endDate": {
+      "year": "2010",
+      "month": "11",
+      "monthString": "NOV"
+    },
+    "summary": "Led a regional research project to assess biotech workforce needs.",
+    "highlights": [
+      "Designed and deployed iPad-based survey technology.",
+      "Managed project budgets and timelines.",
+      "Delivered statistical analysis and actionable insights."
+    ]
+  },
+  {
+    "company": "National Center for Disaster Preparedness/Columbia University School of Public Health",
+    "position": "Field Team Lead",
+    "website": "",
+    "location": "New Orleans, LA",
+    "startDate": {
+      "year": "2008",
+      "month": "05",
+      "monthString": "MAY"
+    },
+    "endDate": {
+      "year": "2010",
+      "month": "04",
+      "monthString": "APR"
+    },
+    "summary": "Supervised data collection for a longitudinal study on Hurricane Katrina's health impacts.",
+    "highlights": [
+      "Coordinated field team operations to ensure data quality.",
+      "Engaged with community organizations to improve participation rates.",
+      "Provided logistical and technical support to field teams."
+    ]
+  },
+  {
+    "company": "Stella Worley Middle School",
+    "position": "Teacher, Language Arts",
+    "website": "",
+    "location": "Westwego, LA",
+    "startDate": {
+      "year": "2008",
+      "month": "01",
+      "monthString": "JAN"
+    },
+    "endDate": {
+      "year": "2008",
+      "month": "05",
+      "monthString": "MAY"
+    },
+    "summary": "Instructed 6th and 8th grade students in English and language arts.",
+    "highlights": [
+      "Integrated technology into student learning through computer enrichment classes."
+    ]
+  },
+  {
+    "company": "Lake Charles American Press",
+    "position": "Copy Editor, Page Designer",
+    "website": "",
+    "location": "Lake Charles, LA",
+    "startDate": {
+      "year": "2006",
+      "month": "08",
+      "monthString": "AUG"
+    },
+    "endDate": {
+      "year": "2007",
+      "month": "12",
+      "monthString": "DEC"
+    },
+    "summary": "Managed content and layout for local and national news sections.",
+    "highlights": [
+      "Oversaw weekly health content and opinion sections.",
+      "Developed the publication’s first weekly insights section."
+    ]
+  },
+  {
+    "company": "The Port Arthur News",
+    "position": "Copy Editor, Page Designer",
+    "website": "",
+    "location": "Port Arthur, TX",
+    "startDate": {
+      "year": "2006",
+      "month": "02",
+      "monthString": "FEB"
+    },
+    "endDate": {
+      "year": "2006",
+      "month": "08",
+      "monthString": "AUG"
+    },
+    "summary": "Edited and designed pages for various newspaper sections.",
+    "highlights": []
+  },
+  {
+    "company": "The Beauregard Daily News",
+    "position": "News Reporter",
+    "website": "",
+    "location": "DeRidder, LA",
+    "startDate": {
+      "year": "2005",
+      "month": "06",
+      "monthString": "JUN"
+    },
+    "endDate": {
+      "year": "2006",
+      "month": "02",
+      "monthString": "FEB"
+    },
+    "summary": "Covered local news and sports stories.",
+    "highlights": []
+  }
+]
