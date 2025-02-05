@@ -8,7 +8,14 @@
       "position": "Software Quality Assurance Analyst",
       "website": "",
       "location": "Remote",
-      "startDate": "2021-11",
+      "startDate": {
+        "yearShort": "",
+        "yearFull": "",
+        "monthShort": "",
+        "monthFull": "",
+        "monthInt": 0,
+        "monthIntToString": ""
+      },
       "endDate": "Present",
       "summary": "Collaborating on cross-functional Scrum teams to deliver secure, reliable software solutions for clinical applications.",
       "highlights": [
@@ -21,8 +28,22 @@
     {
       "company": "AbsenceSoft, LLC",
       "position": "Software QA Engineer",
-      "startDate": "2020-03",
-      "endDate": "2021-11",
+      "startDate": {
+        "yearShort": "",
+        "yearFull": "",
+        "monthShort": "",
+        "monthFull": "",
+        "monthInt": 0,
+        "monthIntToString": ""
+      },
+      "endDate": {
+        "yearShort": "",
+        "yearFull": "",
+        "monthShort": "",
+        "monthFull": "",
+        "monthInt": 0,
+        "monthIntToString": ""
+      },
       "summary": "Supported development and release cycles through manual and automated testing.",
       "highlights": [
         "Executed functionality and smoke tests using Postman and Swagger.",
@@ -35,8 +56,22 @@
       "position": "Software Test Engineer",
       "website": "",
       "location": "Denver, CO",
-      "startDate": "2012-02",
-      "endDate": "2020-02",
+      "startDate": {
+        "yearShort": "",
+        "yearFull": "",
+        "monthShort": "",
+        "monthFull": "",
+        "monthInt": 0,
+        "monthIntToString": ""
+      },
+      "endDate": {
+        "yearShort": "",
+        "yearFull": "",
+        "monthShort": "",
+        "monthFull": "",
+        "monthInt": 0,
+        "monthIntToString": ""
+      },
       "summary": "Established and scaled testing frameworks for immunization tracking services.",
       "highlights": [
         "Planned, developed, and maintained 800+ automated UI tests using C#, Selenium, and SpecFlow.",
@@ -49,8 +84,22 @@
       "position": "Manager, Corporate Compliance",
       "website": "",
       "location": "Denver, CO",
-      "startDate": "2016-10",
-      "endDate": "2018-06",
+      "startDate": {
+        "yearShort": "",
+        "yearFull": "",
+        "monthShort": "",
+        "monthFull": "",
+        "monthInt": 0,
+        "monthIntToString": ""
+      },
+      "endDate": {
+        "yearShort": "",
+        "yearFull": "",
+        "monthShort": "",
+        "monthFull": "",
+        "monthInt": 0,
+        "monthIntToString": ""
+      },
       "summary": "Provided compliance and regulatory support for enterprise clinical IT and billing systems.",
       "highlights": [
         "Guided development, deployment, and training teams to ensure compliance with regulations.",
@@ -63,8 +112,22 @@
       "position": "Clinical Information Specialist",
       "website": "",
       "location": "Denver, CO",
-      "startDate": "2014-06",
-      "endDate": "2016-10",
+      "startDate": {
+        "yearShort": "",
+        "yearFull": "",
+        "monthShort": "",
+        "monthFull": "",
+        "monthInt": 0,
+        "monthIntToString": ""
+      },
+      "endDate": {
+        "yearShort": "",
+        "yearFull": "",
+        "monthShort": "",
+        "monthFull": "",
+        "monthInt": 0,
+        "monthIntToString": ""
+      },
       "summary": "Administered and maintained integrated clinical and billing systems for a multi-location practice.",
       "highlights": [
         "Configured and supported clinical and billing EMR/EHR systems.",
@@ -77,8 +140,22 @@
       "position": "EMR/EHR System Consultant, Trainer, and Support Specialist",
       "website": "",
       "location": "U.S.",
-      "startDate": "2010-10",
-      "endDate": "2014-05",
+      "startDate": {
+        "yearShort": "",
+        "yearFull": "",
+        "monthShort": "",
+        "monthFull": "",
+        "monthInt": 0,
+        "monthIntToString": ""
+      },
+      "endDate": {
+        "yearShort": "",
+        "yearFull": "",
+        "monthShort": "",
+        "monthFull": "",
+        "monthInt": 0,
+        "monthIntToString": ""
+      },
       "summary": "Supported clinical and administrative users during EMR/EHR system implementations.",
       "highlights": [
         "Delivered on-site training to diverse clinical users.",
@@ -91,8 +168,22 @@
       "position": "Data Management Consultant in Program Evaluation",
       "website": "",
       "location": "New Orleans, LA",
-      "startDate": "2010-12",
-      "endDate": "2011-06",
+      "startDate": {
+        "yearShort": "",
+        "yearFull": "",
+        "monthShort": "",
+        "monthFull": "",
+        "monthInt": 0,
+        "monthIntToString": ""
+      },
+      "endDate": {
+        "yearShort": "",
+        "yearFull": "",
+        "monthShort": "",
+        "monthFull": "",
+        "monthInt": 0,
+        "monthIntToString": ""
+      },
       "summary": "Supported data migration and cleanup for a grant management system.",
       "highlights": [
         "Structured legacy data to ensure migration accuracy.",
@@ -104,8 +195,22 @@
       "position": "Research Project Manager in Workforce Development",
       "website": "",
       "location": "New Orleans, LA",
-      "startDate": "2010-05",
-      "endDate": "2010-11",
+      "startDate": {
+        "yearShort": "",
+        "yearFull": "",
+        "monthShort": "",
+        "monthFull": "",
+        "monthInt": 0,
+        "monthIntToString": ""
+      },
+      "endDate": {
+        "yearShort": "",
+        "yearFull": "",
+        "monthShort": "",
+        "monthFull": "",
+        "monthInt": 0,
+        "monthIntToString": ""
+      },
       "summary": "Led a regional research project to assess biotech workforce needs.",
       "highlights": [
         "Designed and deployed iPad-based survey technology.",
@@ -118,8 +223,22 @@
       "position": "Field Team Lead",
       "website": "",
       "location": "New Orleans, LA",
-      "startDate": "2008-05",
-      "endDate": "2010-04",
+      "startDate": {
+        "yearShort": "",
+        "yearFull": "",
+        "monthShort": "",
+        "monthFull": "",
+        "monthInt": 0,
+        "monthIntToString": ""
+      },
+      "endDate": {
+        "yearShort": "",
+        "yearFull": "",
+        "monthShort": "",
+        "monthFull": "",
+        "monthInt": 0,
+        "monthIntToString": ""
+      },
       "summary": "Supervised data collection for a longitudinal study on Hurricane Katrina's health impacts.",
       "highlights": [
         "Coordinated field team operations to ensure data quality.",
@@ -132,8 +251,22 @@
       "position": "Teacher, Language Arts",
       "website": "",
       "location": "Westwego, LA",
-      "startDate": "2008-01",
-      "endDate": "2008-05",
+      "startDate": {
+        "yearShort": "",
+        "yearFull": "",
+        "monthShort": "",
+        "monthFull": "",
+        "monthInt": 0,
+        "monthIntToString": ""
+      },
+      "endDate": {
+        "yearShort": "",
+        "yearFull": "",
+        "monthShort": "",
+        "monthFull": "",
+        "monthInt": 0,
+        "monthIntToString": ""
+      },
       "summary": "Instructed 6th and 8th grade students in English and language arts.",
       "highlights": [
         "Integrated technology into student learning through computer enrichment classes."
@@ -144,8 +277,22 @@
       "position": "Copy Editor, Page Designer",
       "website": "",
       "location": "Lake Charles, LA",
-      "startDate": "2006-08",
-      "endDate": "2007-12",
+      "startDate": {
+        "yearShort": "",
+        "yearFull": "",
+        "monthShort": "",
+        "monthFull": "",
+        "monthInt": 0,
+        "monthIntToString": ""
+      },
+      "endDate": {
+        "yearShort": "",
+        "yearFull": "",
+        "monthShort": "",
+        "monthFull": "",
+        "monthInt": 0,
+        "monthIntToString": ""
+      },
       "summary": "Managed content and layout for local and national news sections.",
       "highlights": [
         "Oversaw weekly health content and opinion sections.",
@@ -157,8 +304,22 @@
       "position": "Copy Editor, Page Designer",
       "website": "",
       "location": "Port Arthur, TX",
-      "startDate": "2006-02",
-      "endDate": "2006-08",
+      "startDate": {
+        "yearShort": "",
+        "yearFull": "",
+        "monthShort": "",
+        "monthFull": "",
+        "monthInt": 0,
+        "monthIntToString": ""
+      },
+      "endDate": {
+        "yearShort": "",
+        "yearFull": "",
+        "monthShort": "",
+        "monthFull": "",
+        "monthInt": 0,
+        "monthIntToString": ""
+      },
       "summary": "Edited and designed pages for various newspaper sections.",
       "highlights": []
     },
@@ -167,8 +328,22 @@
       "position": "News Reporter",
       "website": "",
       "location": "DeRidder, LA",
-      "startDate": "2005-06",
-      "endDate": "2006-02",
+      "startDate": {
+        "yearShort": "",
+        "yearFull": "",
+        "monthShort": "",
+        "monthFull": "",
+        "monthInt": 0,
+        "monthIntToString": ""
+      },
+      "endDate": {
+        "yearShort": "",
+        "yearFull": "",
+        "monthShort": "",
+        "monthFull": "",
+        "monthInt": 0,
+        "monthIntToString": ""
+      },
       "summary": "Covered local news and sports stories.",
       "highlights": []
     }
