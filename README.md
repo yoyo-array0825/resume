@@ -1,23 +1,3 @@
-# Resume Generator
-
-----------------------
-
-## OVERVIEW
-
-This project contains my personal resume or CV. It uses [jsonresume](https://jsonresume.org/) [hackmyresume](https://github.com/hacksalot/HackMyResume) format to save and display the resume in PDF and HTML format.
-
-> The **main repository** is hosted in [gitlab.com](https://gitlab.com/patricioperpetua/resume) but it is automaticaly mirrored to [github.com](https://github.com/patricioperpetua/resume.git). If you are in the Github page it may occur that is not updated to the last version.
-
-You can check the last built resume in gitlab pages following:
-
-* [https://patricioperpetua.gitlab.io/resume/](https://patricioperpetua.gitlab.io/resume/)
-* [https://patricioperpetua.gitlab.io/resume/index.pdf](https://patricioperpetua.gitlab.io/resume/index.pdf)
-
-## HOW TO USE IT
-
-### INSTALATION
-
-Inside **scripts/installers** folder there is everything to install all the necesary binaries. It is based on npm modules, so it is a **requirement to have installed nodejs**.
 
 To install just type:
 
