@@ -132,33 +132,41 @@
       "startDate": "June 2014",
       "endDate": "October 2016",
       "summary": "Administered and maintained integrated clinical and billing systems for a multi-location practice.",
-      "highlights": {
-        "Administrator of Integrated Clinical/Billing EMR/EHR (eClinicalWorks) System": [
-          "Configured and maintained user-facing and back-end components for clinical, billing, registration, and scheduling.",
-          "Served as the primary support resource for a 20-MD nephrology practice (~80 users across five outpatient locations).",
-          "Reported and provided guidance to partners and leadership on system issues and defects.",
-          "Researched and developed workflow solutions to meet clinical, billing, operational, and leadership needs.",
-          "Coordinated the management of clinical/billing interfaces with vendors and stakeholders, including bi-directional lab interfaces, claims processing, and, Meaningful Use reporting.",
-          "Ensured uptime and functionality during system upgrades and IT outages."
-        ],
-        "Security/Privacy Compliance Officer": [
-          "Developed and deployed privacy and security training content and a comprehensive deployment plan.",
-          "Provided guidance on privacy and security considerations, ensuring compliance with HIPAA and security best practices.",
-          "Oversaw privacy and security aspects of clinical IT workflows, clinical research efforts, and vendor coordination."
-        ],
-        "Business Intelligence System Manager/Admin and Data Analyst": [
-          "Delivered monthly, quarterly, and annual financial and operational reports to partners and leadership with a focus on accuracy and timeliness.",
-          "Researched and implemented methods for advanced clinical and financial ad hoc reporting using existing resources.",
-          "Developed workflows for efficient delivery of data and reports to leadership, providers, and clinical end-users.",
-          "Supported the establishment of and advised the practice’s clinical quality reporting committee."
-        ],
-        "Co-Manager of IT Resources and Processes": [
-          "Advised leadership on purchasing decisions and coordinated with managed IT services vendors to address daily and long-term technology needs.",
-          "Led a successful campaign to improve mobile device security, advocating for better compliance with HIPAA standards and convincing leadership to adopt a Mobile, Device Management (MDM) service.",
-          "Researched and deployed the MDM service, ensuring compliance with legal and regulatory requirements (e.g., CERT).",
-          "Administered and managed the company’s SharePoint system (2007), including extensive testing for migration to Office 365."
-        ]
-      },
+      "highlights": [
+        {
+          "Administrator of Integrated Clinical/Billing EMR/EHR (eClinicalWorks) System": [
+            "Configured and maintained user-facing and back-end components for clinical, billing, registration, and scheduling.",
+            "Served as the primary support resource for a 20-MD nephrology practice (~80 users across five outpatient locations).",
+            "Reported and provided guidance to partners and leadership on system issues and defects.",
+            "Researched and developed workflow solutions to meet clinical, billing, operational, and leadership needs.",
+            "Coordinated the management of clinical/billing interfaces with vendors and stakeholders, including bi-directional lab interfaces, claims processing, and, Meaningful Use reporting.",
+            "Ensured uptime and functionality during system upgrades and IT outages."
+          ]
+        },
+        {
+          "Security/Privacy Compliance Officer": [
+            "Developed and deployed privacy and security training content and a comprehensive deployment plan.",
+            "Provided guidance on privacy and security considerations, ensuring compliance with HIPAA and security best practices.",
+            "Oversaw privacy and security aspects of clinical IT workflows, clinical research efforts, and vendor coordination."
+          ]
+        },
+        {
+          "Business Intelligence System Manager/Admin and Data Analyst": [
+            "Delivered monthly, quarterly, and annual financial and operational reports to partners and leadership with a focus on accuracy and timeliness.",
+            "Researched and implemented methods for advanced clinical and financial ad hoc reporting using existing resources.",
+            "Developed workflows for efficient delivery of data and reports to leadership, providers, and clinical end-users.",
+            "Supported the establishment of and advised the practice’s clinical quality reporting committee."
+          ]
+        },
+        {
+          "Co-Manager of IT Resources and Processes": [
+            "Advised leadership on purchasing decisions and coordinated with managed IT services vendors to address daily and long-term technology needs.",
+            "Led a successful campaign to improve mobile device security, advocating for better compliance with HIPAA standards and convincing leadership to adopt a Mobile, Device Management (MDM) service.",
+            "Researched and deployed the MDM service, ensuring compliance with legal and regulatory requirements (e.g., CERT).",
+            "Administered and managed the company’s SharePoint system (2007), including extensive testing for migration to Office 365."
+          ]
+        }
+      ],
       "keywords": [
         "MS SQL",
         "eClinicalWorks (EMR)",
